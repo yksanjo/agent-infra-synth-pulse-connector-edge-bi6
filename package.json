@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-synth-pulse-connector-edge-bi6",
+  "version": "1.0.0",
+  "description": "Deployment and CI/CD automation",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "synth-pulse-connector-edge-bi6"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-synth-pulse-connector-edge-bi6.git"
+  }
+}
